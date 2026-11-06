@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc"><title id="title">Ori Marom — Software, Networks, Security</title>
+<desc id="desc">A dark navy banner with fine geometric network lines and teal highlights.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1426"/><stop offset="1" stop-color="#142a40"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<g fill="none" stroke="#48728b" stroke-width="1" opacity=".45">
+<path d="M720 0 860 100 1030 35 1200 105M860 100 790 245 1000 275 1115 165 1200 225M1030 35 1115 165 860 100M1000 275 1030 35M790 245 720 320M1115 165 1200 20"/>
+<path d="M690 60 760 130 690 200M895 320 1115 165 1200 300" opacity=".4"/>
+</g>
+<g fill="#5eead4">
+<circle cx="860" cy="100" r="4"/><circle cx="790" cy="245" r="3"/><circle cx="1030" cy="35" r="3"/><circle cx="1115" cy="165" r="5"/><circle cx="1000" cy="275" r="3"/>
+</g>
+<rect x="64" y="66" width="50" height="4" rx="2" fill="url(#accent)"/>
+<text x="64" y="151" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Ori Marom</text>
+<text x="67" y="199" fill="#a9c5dc" font-family="Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="1.1">SOFTWARE · NETWORKS · SECURITY</text>
+<text x="67" y="260" fill="#69daca" font-family="Segoe UI,Arial,sans-serif" font-size="16">Computer Science @ Ariel University</text>
+</svg>

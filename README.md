@@ -16,7 +16,7 @@
 
 ## A little about me
 
-I’m a Computer Science student at Ariel University, specializing in cybersecurity as part of the Academic Reserve program. I enjoy understanding how systems work beneath the surface—from network packets and transport protocols to the mathematics behind interactive visualizations.
+I’m a  third-year Computer Science student at Ariel University, specializing in cybersecurity as part of the Academic Reserve program. I enjoy understanding how systems work beneath the surface—from network packets and transport protocols to the mathematics behind interactive visualizations.
 
 - **Build:** networking tools, systems software, and interactive desktop applications.
 - **Explore:** protocol reliability, embedded integration, and data visualization.
